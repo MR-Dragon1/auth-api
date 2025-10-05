@@ -1,8 +1,8 @@
 <?php
 header('Content-Type: application/json');
 
-$valid_user = "mrroger";
-$valid_pass = md5("langitsenja");
+$valid_user = "mrroger916";
+$valid_pass = md5("kopipagi");
 
 echo json_encode([
     "username" => $valid_user,
